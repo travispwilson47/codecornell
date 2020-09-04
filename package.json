@@ -1,0 +1,17 @@
+{
+  "name": "engri1101-labs",
+  "version": "1.0.0",
+  "description": "Labs for Engri1101",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "Travis Wilson",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "lite-server": "^2.5.4"
+  }
+}
